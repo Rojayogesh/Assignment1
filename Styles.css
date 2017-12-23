@@ -1,0 +1,55 @@
+body{
+    width:700px;
+    margin:0 auto;
+    border:1px solid black;
+    padding-bottom: 7%;
+}
+section{
+    padding-left: 5px;
+}
+div{
+    padding-bottom:5px;
+    overflow: auto;
+}
+img{
+    float:left;
+    width:165px;
+    height:165px;
+}
+ul{
+    list-style-type: none;
+}
+li b{
+    padding-left:5px;
+}
+li p{
+    text-align: justify;
+    margin-left: 3.5cm;
+    padding-right: 10px;
+}
+.return{
+    float: right;
+    padding-right: 5px;
+    padding-top:5px;
+}
+.h2_interest{
+    padding-top:15px;
+    padding-left:5px;
+}
+.h3_interest{
+    padding-left:5px;
+}
+.p_favsong{
+    padding-left:5px;
+}
+
+.ul_interest{
+    list-style-type: disc;
+}
+.interest img{
+    padding-left:20px;
+    padding-right:20px;
+}
+.interest ul{
+    list-style-type: disc;
+}
